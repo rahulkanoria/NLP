@@ -1,0 +1,22 @@
+
+what is a chatbot?
+design 
+
+the chatbot design is the process that defines the interaction between the user and the chatbot.the chatbot designer will define the chatbot personality, the questions that will be asked to the users, and the overall interaction.it can be viewed as a subset of the conversational design.
+
+chatterbot?
+﻿
+a chatbot (also known as a talkbot, chatterbot, bot, im bot, interactive agent, or artificial conversational entity) is a computer program or an artificial intelligence which conducts a conversation via auditory or textual methods.
+
+development?
+chatbot development platforms 
+
+the process of building, testing and deploying chatbots can be done on cloud based chatbot development platforms offered by cloud platform as a service (paas) providers such as yekaliva, oracle cloud platform, snatchbot and ibm watson.these cloud platforms provide natural language processing, artificial intelligence and mobile backend as a service for chatbot development.
+
+applications?
+according to forrester (2015), ai will replace 16 percent of american jobs by the end of the decade.chatbots have been used in applications such as customer service, sales and product education.
+
+product?
+maintenance 
+
+to keep chatbots up to speed with changing company products and services, traditional chatbot development platforms require ongoing maintenance.
